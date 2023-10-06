@@ -1,0 +1,13 @@
+name = "Better Mods Button"
+filename = "BetterModsButton-v4.2.4-1.19.2-Forge.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/KUZAAwdD/versions/XJQlBJYK/BetterModsButton-v4.2.4-1.19.2-Forge.jar"
+hash-format = "sha1"
+hash = "dccbf3f1ea72d215f2b4f981ef19dbaf7cff188e"
+
+[update]
+[update.modrinth]
+mod-id = "KUZAAwdD"
+version = "XJQlBJYK"

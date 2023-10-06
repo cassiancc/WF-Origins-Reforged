@@ -1,0 +1,13 @@
+name = "Wish Fulfillment Origins Reforged"
+author = "ConGodsted"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "ba3e72c226cfb3d62e6fcee1d577634a0f3a05300495e8353190e260440473f1"
+
+[versions]
+forge = "43.2.6"
+minecraft = "1.19.2"

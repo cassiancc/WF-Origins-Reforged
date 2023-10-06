@@ -1,0 +1,13 @@
+name = "Old New Combat"
+filename = "oldnewcombat-1.19.2-0.3.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/YuCaYH98/versions/wFewCmTr/oldnewcombat-1.19.2-0.3.0.jar"
+hash-format = "sha1"
+hash = "8e2fdba0e2543ff5cc8717747eb612c97ac4c71f"
+
+[update]
+[update.modrinth]
+mod-id = "YuCaYH98"
+version = "wFewCmTr"

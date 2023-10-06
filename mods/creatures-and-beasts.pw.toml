@@ -1,0 +1,13 @@
+name = "Creatures and Beasts"
+filename = "CNB-1.19-1.5.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/RQDFHc4w/versions/D9DhFlPu/CNB-1.19-1.5.2.jar"
+hash-format = "sha1"
+hash = "186c24e507175c18f7fc9b871f0953303ae8a423"
+
+[update]
+[update.modrinth]
+mod-id = "RQDFHc4w"
+version = "D9DhFlPu"

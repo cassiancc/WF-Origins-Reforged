@@ -1,0 +1,152 @@
+type = menu
+
+customization-meta {
+  identifier = net.minecraft.client.gui.GuiMainMenu
+  randomgroup = 1
+  renderorder = foreground
+  randommode = false
+  randomonlyfirsttime = false
+}
+
+customization {
+  name = aether
+  action = setbackgroundpanorama
+}
+
+customization {
+  identifier = %id=400322%
+  orientation = mid-centered
+  x = -100
+  action = movebutton
+  y = 6
+}
+
+customization {
+  identifier = %id=400322%
+  seconds = 1.5
+  onlyfirsttime = true
+  fadein = true
+  fadeinspeed = 2.0
+  action = hidebuttonfor
+}
+
+customization {
+  identifier = %id=376382%
+  action = hidebutton
+}
+
+customization {
+  identifier = %id=400298%
+  orientation = mid-centered
+  x = -100
+  action = movebutton
+  y = -20
+}
+
+customization {
+  identifier = %id=400298%
+  seconds = 1.0
+  onlyfirsttime = true
+  fadein = true
+  fadeinspeed = 1.0
+  action = hidebuttonfor
+}
+
+customization {
+  identifier = %id=400346%
+  orientation = mid-centered
+  x = -100
+  action = movebutton
+  y = 32
+}
+
+customization {
+  identifier = %id=400346%
+  width = 200
+  action = resizebutton
+  height = 20
+}
+
+customization {
+  identifier = %id=400346%
+  seconds = 2.0
+  onlyfirsttime = true
+  fadein = true
+  fadeinspeed = 2.0
+  action = hidebuttonfor
+}
+
+customization {
+  identifier = %id=502346%
+  action = hidebutton
+}
+
+customization {
+  identifier = %id=400382%
+  orientation = mid-centered
+  x = -100
+  action = movebutton
+  y = 58
+}
+
+customization {
+  identifier = %id=400382%
+  width = 200
+  action = resizebutton
+  height = 20
+}
+
+customization {
+  identifier = %id=400382%
+  seconds = 2.5
+  onlyfirsttime = true
+  fadein = true
+  fadeinspeed = 2.0
+  action = hidebuttonfor
+}
+
+customization {
+  identifier = %id=502382%
+  orientation = mid-centered
+  x = -100
+  action = movebutton
+  y = 84
+}
+
+customization {
+  identifier = %id=502382%
+  width = 200
+  action = resizebutton
+  height = 20
+}
+
+customization {
+  identifier = %id=502382%
+  seconds = 3.0
+  onlyfirsttime = true
+  fadein = true
+  fadeinspeed = 2.0
+  action = hidebuttonfor
+}
+
+customization {
+  identifier = %id=9764%
+  action = hidebutton
+}
+
+customization {
+  orientation = top-centered
+  delayappearanceseconds = 0.5
+  path = config/fancymenu/images/aetherrisingshadow.png
+  fadein = true
+  fadeinspeed = 0.5
+  x = -139
+  width = 275
+  actionid = 4fc107cf-468e-4e2b-b25a-dacf2668c4841627334524329
+  action = addtexture
+  y = 15
+  delayappearance = true
+  delayappearanceeverytime = false
+  height = 80
+}
+

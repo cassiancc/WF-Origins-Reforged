@@ -1,0 +1,40 @@
+type = menu
+
+customization-meta {
+  identifier = badasintended.slotlink.client.gui.screen.RequestScreen
+  randomgroup = 1
+  renderorder = foreground
+  randommode = false
+  randomonlyfirsttime = false
+}
+
+customization {
+  keepaspectratio = false
+  action = backgroundoptions
+}
+
+customization {
+  identifier = %id=423494%
+  action = hidebutton
+}
+
+customization {
+  identifier = %id=423512%
+  action = hidebutton
+}
+
+customization {
+  identifier = %id=573550%
+  action = hidebutton
+}
+
+customization {
+  identifier = %id=423530%
+  action = hidebutton
+}
+
+customization {
+  identifier = %id=565550%
+  action = hidebutton
+}
+

@@ -1,0 +1,13 @@
+name = "Roughly Enough Items (REI)"
+filename = "RoughlyEnoughItems-9.1.663.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/nfn13YXA/versions/WybS94hh/RoughlyEnoughItems-9.1.663.jar"
+hash-format = "sha1"
+hash = "4c2c1369622e9fb44b83ac05857ff264c9fa1e1c"
+
+[update]
+[update.modrinth]
+mod-id = "nfn13YXA"
+version = "WybS94hh"

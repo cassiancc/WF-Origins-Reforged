@@ -1,0 +1,17 @@
+name = "Lucent"
+filename = "lucent-1.19.2-1.4.1.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/JE0fgMUp/versions/s6Xm8fY6/lucent-1.19.2-1.4.1.jar"
+hash-format = "sha1"
+hash = "0a95dc6fed754046300bf9b0eb9b73d73042cc4e"
+
+[update]
+[update.modrinth]
+mod-id = "JE0fgMUp"
+version = "s6Xm8fY6"
+
+[option]
+optional = true
+description = "Dynamic lights"

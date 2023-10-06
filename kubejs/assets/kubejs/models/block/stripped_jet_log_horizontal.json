@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/cube_column",
+  "textures": {
+    "end": "kubejs:block/stripped_jet_log_top",
+    "side": "kubejs:block/stripped_jet_log"
+  }
+}

@@ -1,0 +1,13 @@
+name = "TooManyOrigins"
+filename = "TooManyOrigins-1.0.0-beta.19+1.19.2-forge.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/xDjN28OB/versions/CUfV2BIP/TooManyOrigins-1.0.0-beta.19%2B1.19.2-forge.jar"
+hash-format = "sha1"
+hash = "150cd049e93c2a7dbc1ca4f3aaa70d2bf4fb59fd"
+
+[update]
+[update.modrinth]
+mod-id = "xDjN28OB"
+version = "CUfV2BIP"

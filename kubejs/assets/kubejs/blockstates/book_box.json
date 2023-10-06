@@ -1,0 +1,72 @@
+{
+  "variants": {
+    "facing=east": [
+      {
+        "model": "kubejs:block/book_box_a",
+        "y": 90
+      },
+      {
+        "model": "kubejs:block/book_box_b",
+        "y": 90
+      },
+      {
+        "model": "kubejs:block/book_box_c",
+        "y": 90
+      },
+      {
+        "model": "kubejs:block/book_box_d",
+        "y": 90
+      }
+    ],
+    "facing=north": [
+      {
+        "model": "kubejs:block/book_box_a"
+      },
+      {
+        "model": "kubejs:block/book_box_b"
+      },
+      {
+        "model": "kubejs:block/book_box_c"
+      },
+      {
+        "model": "kubejs:block/book_box_d"
+      }
+    ],
+    "facing=south": [
+      {
+        "model": "kubejs:block/book_box_a",
+        "y": 180
+      },
+      {
+        "model": "kubejs:block/book_box_b",
+        "y": 180
+      },
+      {
+        "model": "kubejs:block/book_box_c",
+        "y": 180
+      },
+      {
+        "model": "kubejs:block/book_box_d",
+        "y": 180
+      }
+    ],
+    "facing=west": [
+      {
+        "model": "kubejs:block/book_box_a",
+        "y": 270
+      },
+      {
+        "model": "kubejs:block/book_box_b",
+        "y": 270
+      },
+      {
+        "model": "kubejs:block/book_box_c",
+        "y": 270
+      },
+      {
+        "model": "kubejs:block/book_box_d",
+        "y": 270
+      }
+    ]
+  }
+}

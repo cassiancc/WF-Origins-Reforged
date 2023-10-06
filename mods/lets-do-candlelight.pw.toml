@@ -1,0 +1,13 @@
+name = "Let's Do: Candlelight"
+filename = "letsdo-candlelight-forge-1.1.8.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/mPND0Adp/versions/L51wYZRA/letsdo-candlelight-forge-1.1.8.jar"
+hash-format = "sha1"
+hash = "8951789492eb7a20ce8c6ca033a14ad31b08c93b"
+
+[update]
+[update.modrinth]
+mod-id = "mPND0Adp"
+version = "L51wYZRA"

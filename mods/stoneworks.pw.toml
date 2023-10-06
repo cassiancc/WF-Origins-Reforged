@@ -1,0 +1,13 @@
+name = "Stoneworks"
+filename = "Stoneworks-v4.0.1-1.19.2-Forge.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/FzyTKtVF/versions/AI9a20Lx/Stoneworks-v4.0.1-1.19.2-Forge.jar"
+hash-format = "sha1"
+hash = "5d9a3917b2a5d76ed15ef57837caf7acf371402c"
+
+[update]
+[update.modrinth]
+mod-id = "FzyTKtVF"
+version = "AI9a20Lx"

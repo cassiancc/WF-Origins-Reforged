@@ -1,0 +1,16 @@
+{
+  "replace": false,
+  "values": [
+	"croptopia:tea",
+	"croptopia:coffee",
+	"croptopia:wine",
+	"croptopia:lemonade",
+	"croptopia:limeade",
+	"croptopia:beer",
+	"croptopia:mead",
+	"adorn:nether_wart_coffee",
+	"adorn:glow_berry_tea",
+	"croptopia:rum"
+
+  ]
+}

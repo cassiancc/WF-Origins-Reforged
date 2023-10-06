@@ -1,0 +1,13 @@
+name = "ParCool!"
+filename = "ParCool-1.19.2-3.1.0.4-R.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "99b76d3aa8d2f0f3290303ef207ffc14fdb70e83"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4772420
+project-id = 482378

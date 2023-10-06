@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/template_command_block",
+  "textures": {
+    "front": "kubejs:block/chiseled_bookshelf_1",
+    "back": "kubejs:block/chiseled_bookshelf_back",
+    "side": "kubejs:block/chiseled_bookshelf_side"
+  }
+}

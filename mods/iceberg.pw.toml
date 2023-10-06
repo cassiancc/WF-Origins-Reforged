@@ -1,0 +1,13 @@
+name = "Iceberg"
+filename = "Iceberg-1.19.2-forge-1.1.4.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/5faXoLqX/versions/wog3r1ZM/Iceberg-1.19.2-forge-1.1.4.jar"
+hash-format = "sha1"
+hash = "d41dcb0a6397e889603b59a52a12f5d0ce7e675f"
+
+[update]
+[update.modrinth]
+mod-id = "5faXoLqX"
+version = "wog3r1ZM"

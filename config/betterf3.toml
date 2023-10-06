@@ -1,0 +1,89 @@
+modules_right = []
+
+[general]
+	disable_mod = false
+	auto_start = false
+	space_modules = false
+	shadow_text = true
+	animations = false
+	animationSpeed = 1.0
+	fontScale = 1.0
+	background_color = 1867534416
+	hide_debug_crosshair = true
+	hide_sidebar = true
+	hide_bossbar = true
+	always_show_profiler = false
+	always_show_tps = false
+
+[[modules_left]]
+	name = "minecraft"
+	name_color = 10506797
+	value_color = 43520
+	enabled = true
+
+	[modules_left.lines]
+		minecraft = true
+
+[[modules_left]]
+	name = "fps"
+	color_high = 16755200
+	color_med = 16755200
+	color_low = 16755200
+	enabled = true
+
+	[modules_left.lines]
+		fps = true
+
+[[modules_left]]
+	name = "coords"
+	name_color = 5636095
+	color_x = 5636095
+	color_y = 5636095
+	color_z = 5636095
+	enabled = true
+
+	[modules_left.lines]
+		player_coords = true
+		block_coords = true
+		chunk_relative_coords = true
+		chunk_coords = true
+
+[[modules_left]]
+	name = "location"
+	name_color = 16755200
+	value_color = 5636095
+	enabled = true
+
+	[modules_left.lines]
+		dimension = true
+		facing = true
+		rotation = true
+		light = true
+		light_server = false
+		highest_block = false
+		highest_block_server = false
+		biome = true
+		local_difficulty = false
+		day_ticks = false
+		days_played = true
+		slime_chunk = false
+
+[[modules_left]]
+	name = "target"
+	name_color = 16755200
+	value_color = 5636095
+	enabled = true
+
+	[modules_left.lines]
+		targeted_block = true
+		id_block = true
+		block_states = true
+		block_tags = false
+		nothing = true
+		targeted_fluid = false
+		id_fluid = false
+		fluid_states = true
+		fluid_tags = false
+		nothing2 = true
+		targeted_entity = true
+

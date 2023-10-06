@@ -1,0 +1,28 @@
+{
+  "replace": false,
+  "values": [
+    "croptopia:pepperoni",
+    "croptopia:tuna",
+    "croptopia:cooked_tuna",
+    "croptopia:steamed_crab",
+    "croptopia:deep_fried_shrimp",
+    "croptopia:tuna_roll",
+    "croptopia:steamed_clams",
+    "croptopia:grilled_oysters",
+    "croptopia:cooked_shrimp",
+    "croptopia:cooked_anchovy",
+    "croptopia:crab",
+    "croptopia:roe",
+    "croptopia:anchovy",
+    "croptopia:clam",
+    "croptopia:glowing_calamari",
+    "croptopia:shrimp",
+    "croptopia:cooked_calamari",
+    "croptopia:crab_legs",
+    "croptopia:ham_sandwich",
+	"croptopia:fried_calamari",
+	"croptopia:calamari",
+    "croptopia:cooked_bacon",
+    "croptopia:oyster"
+  ]
+}

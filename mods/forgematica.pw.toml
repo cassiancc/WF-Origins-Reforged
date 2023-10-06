@@ -1,0 +1,13 @@
+name = "Forgematica"
+filename = "Forgematica-0.1.6-mc1.19.2.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/dCKRaeBC/versions/DqWf1Zyy/Forgematica-0.1.6-mc1.19.2.jar"
+hash-format = "sha1"
+hash = "d64b46718521a44337dd6c85ffe6594435d312ba"
+
+[update]
+[update.modrinth]
+mod-id = "dCKRaeBC"
+version = "DqWf1Zyy"

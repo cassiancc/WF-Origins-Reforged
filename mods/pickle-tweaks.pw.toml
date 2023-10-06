@@ -1,0 +1,13 @@
+name = "Pickle Tweaks"
+filename = "PickleTweaks-1.19.2-7.0.3.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/J868sgbE/versions/zTRvspuf/PickleTweaks-1.19.2-7.0.3.jar"
+hash-format = "sha1"
+hash = "bb0b77a21c9b63575108539a5ce02ed294ae01c3"
+
+[update]
+[update.modrinth]
+mod-id = "J868sgbE"
+version = "zTRvspuf"

@@ -1,0 +1,26 @@
+type = menu
+
+customization-meta {
+  identifier = net.minecraft.client.gui.GuiMainMenu
+  randomgroup = 1
+  renderorder = foreground
+  randommode = false
+  randomonlyfirsttime = false
+}
+
+customization {
+  name = aether
+  action = setbackgroundpanorama
+}
+
+customization {
+  path = config/fancymenu/images/aetherrisingshadow.png
+  orientation = top-centered
+  x = -138
+  width = 278
+  actionid = 3e10db71-71a9-46ff-a604-47c5d08404a21627495096139
+  action = addtexture
+  y = 21
+  height = 74
+}
+

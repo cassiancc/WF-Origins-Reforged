@@ -1,0 +1,16 @@
+{
+  "variants": {
+    "axis=x": {
+      "model": "kubejs:block/dal_log_horizontal",
+      "x": 90,
+      "y": 90
+    },
+    "axis=y": {
+      "model": "kubejs:block/dal_log"
+    },
+    "axis=z": {
+      "model": "kubejs:block/dal_log_horizontal",
+      "x": 90
+    }
+  }
+}

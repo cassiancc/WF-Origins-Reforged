@@ -1,0 +1,31 @@
+To refresh this file, delete it and run /reload command again! Last updated: Dec 24, 2022, 5:31:12 PM
+
+#minecraft:lava
+- minecraft:lava (from Default)
+- minecraft:flowing_lava (from Default)
+
+#create:bottomless/deny
+
+#minecraft:water
+- minecraft:water (from Default)
+- minecraft:flowing_water (from Default)
+
+#forge:chocolate
+- create:flowing_chocolate (from create-1.19.2-0.5.0.g.jar)
+- create:chocolate (from create-1.19.2-0.5.0.g.jar)
+
+#forge:milk
+- minecraft:milk? (from forge-1.19.2-43.2.0-universal.jar)
+- minecraft:flowing_milk? (from forge-1.19.2-43.2.0-universal.jar)
+
+#forge:tea
+- create:flowing_tea (from create-1.19.2-0.5.0.g.jar)
+- create:tea (from create-1.19.2-0.5.0.g.jar)
+
+#create:bottomless/allow
+- minecraft:water (from create-1.19.2-0.5.0.g.jar)
+- minecraft:lava (from create-1.19.2-0.5.0.g.jar)
+
+#forge:honey
+- create:flowing_honey (from create-1.19.2-0.5.0.g.jar)
+- create:honey (from create-1.19.2-0.5.0.g.jar)

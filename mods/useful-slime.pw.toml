@@ -1,0 +1,13 @@
+name = "Useful Slime"
+filename = "usefulslime-1.9-1.19.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/CzM6C1W0/versions/7KEuP70X/usefulslime-1.9-1.19.2.jar"
+hash-format = "sha1"
+hash = "dc6250d00e0880e6f122694b2f3bc37283cf2630"
+
+[update]
+[update.modrinth]
+mod-id = "CzM6C1W0"
+version = "7KEuP70X"

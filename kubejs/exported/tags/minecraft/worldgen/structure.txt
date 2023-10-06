@@ -1,0 +1,89 @@
+To refresh this file, delete it and run /reload command again! Last updated: Dec 24, 2022, 5:31:12 PM
+
+#minecraft:ocean_ruin
+- minecraft:ocean_ruin_cold (from Default)
+- minecraft:ocean_ruin_warm (from Default)
+
+#minecraft:mineshaft
+- minecraft:mineshaft (from Default)
+- minecraft:mineshaft_mesa (from Default)
+- bettermineshafts:mineshaft_acacia (from YungsBetterMineshafts-1.19.2-Forge-3.2.0.jar)
+- bettermineshafts:mineshaft_desert (from YungsBetterMineshafts-1.19.2-Forge-3.2.0.jar)
+- bettermineshafts:mineshaft_ice (from YungsBetterMineshafts-1.19.2-Forge-3.2.0.jar)
+- bettermineshafts:mineshaft_jungle (from YungsBetterMineshafts-1.19.2-Forge-3.2.0.jar)
+- bettermineshafts:mineshaft_lush (from YungsBetterMineshafts-1.19.2-Forge-3.2.0.jar)
+- bettermineshafts:mineshaft_mesa (from YungsBetterMineshafts-1.19.2-Forge-3.2.0.jar)
+- bettermineshafts:mineshaft_mushroom (from YungsBetterMineshafts-1.19.2-Forge-3.2.0.jar)
+- bettermineshafts:mineshaft_oak (from YungsBetterMineshafts-1.19.2-Forge-3.2.0.jar)
+- bettermineshafts:mineshaft_red_desert (from YungsBetterMineshafts-1.19.2-Forge-3.2.0.jar)
+- bettermineshafts:mineshaft_spruce (from YungsBetterMineshafts-1.19.2-Forge-3.2.0.jar)
+- bettermineshafts:mineshaft_spruce_snowy (from YungsBetterMineshafts-1.19.2-Forge-3.2.0.jar)
+- bettermineshafts:mineshaft_overgrown (from YungsBetterMineshafts-1.19.2-Forge-3.2.0.jar)
+- bettermineshafts:mineshaft_dripstone (from YungsBetterMineshafts-1.19.2-Forge-3.2.0.jar)
+
+#minecraft:on_woodland_explorer_maps
+- minecraft:mansion (from Default)
+
+#minecraft:cats_spawn_in
+- minecraft:swamp_hut (from Default)
+
+#minecraft:cats_spawn_as_black
+- minecraft:swamp_hut (from Default)
+
+#quark:soul_bead_target
+- minecraft:fortress (from Quark-3.3-377.jar)
+
+#bettermineshafts:better_mineshafts
+- bettermineshafts:mineshaft_acacia (from YungsBetterMineshafts-1.19.2-Forge-3.2.0.jar)
+- bettermineshafts:mineshaft_desert (from YungsBetterMineshafts-1.19.2-Forge-3.2.0.jar)
+- bettermineshafts:mineshaft_dripstone (from YungsBetterMineshafts-1.19.2-Forge-3.2.0.jar)
+- bettermineshafts:mineshaft_ice (from YungsBetterMineshafts-1.19.2-Forge-3.2.0.jar)
+- bettermineshafts:mineshaft_jungle (from YungsBetterMineshafts-1.19.2-Forge-3.2.0.jar)
+- bettermineshafts:mineshaft_lush (from YungsBetterMineshafts-1.19.2-Forge-3.2.0.jar)
+- bettermineshafts:mineshaft_mesa (from YungsBetterMineshafts-1.19.2-Forge-3.2.0.jar)
+- bettermineshafts:mineshaft_mushroom (from YungsBetterMineshafts-1.19.2-Forge-3.2.0.jar)
+- bettermineshafts:mineshaft_oak (from YungsBetterMineshafts-1.19.2-Forge-3.2.0.jar)
+- bettermineshafts:mineshaft_overgrown (from YungsBetterMineshafts-1.19.2-Forge-3.2.0.jar)
+- bettermineshafts:mineshaft_red_desert (from YungsBetterMineshafts-1.19.2-Forge-3.2.0.jar)
+- bettermineshafts:mineshaft_spruce (from YungsBetterMineshafts-1.19.2-Forge-3.2.0.jar)
+- bettermineshafts:mineshaft_spruce_snowy (from YungsBetterMineshafts-1.19.2-Forge-3.2.0.jar)
+
+#minecraft:shipwreck
+- minecraft:shipwreck (from Default)
+- minecraft:shipwreck_beached (from Default)
+
+#minecraft:on_ocean_explorer_maps
+- minecraft:monument (from Default)
+
+#betterstrongholds:better_strongholds
+- betterstrongholds:stronghold (from YungsBetterStrongholds-1.19.2-Forge-3.2.0.jar)
+
+#minecraft:on_treasure_maps
+- minecraft:buried_treasure (from Default)
+
+#morevillagers:on_mineshaft_explorer_maps
+- #bettermineshafts:better_mineshafts (from YungsBetterMineshafts-1.19.2-Forge-3.2.0.jar)
+
+#minecraft:eye_of_ender_located
+- minecraft:stronghold (from Default)
+- betterstrongholds:stronghold (from YungsBetterStrongholds-1.19.2-Forge-3.2.0.jar)
+
+#minecraft:ruined_portal
+- minecraft:ruined_portal_desert (from Default)
+- minecraft:ruined_portal_jungle (from Default)
+- minecraft:ruined_portal_mountain (from Default)
+- minecraft:ruined_portal_nether (from Default)
+- minecraft:ruined_portal_ocean (from Default)
+- minecraft:ruined_portal (from Default)
+- minecraft:ruined_portal_swamp (from Default)
+
+#minecraft:village
+- minecraft:village_plains (from Default)
+- minecraft:village_desert (from Default)
+- minecraft:village_savanna (from Default)
+- minecraft:village_snowy (from Default)
+- minecraft:village_taiga (from Default)
+
+#minecraft:dolphin_located
+- #minecraft:ocean_ruin (from Default)
+- #minecraft:shipwreck (from Default)

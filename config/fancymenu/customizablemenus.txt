@@ -1,0 +1,62 @@
+type = customizablemenus
+
+net.minecraftforge.fml.client.GuiModList {
+}
+
+net.minecraft.class_458 {
+}
+
+net.minecraft.class_442 {
+}
+
+badasintended.slotlink.client.gui.screen.RequestScreen {
+}
+
+de.keksuccino.drippyloadingscreen.customization.DrippyOverlayScreen {
+}
+
+de.keksuccino.drippyloadingscreen.customization.DrippyOverlayScreen {
+}
+
+de.keksuccino.drippyloadingscreen.customization.DrippyOverlayScreen {
+}
+
+de.keksuccino.drippyloadingscreen.customization.DrippyOverlayScreen {
+}
+
+de.keksuccino.drippyloadingscreen.customization.DrippyOverlayScreen {
+}
+
+de.keksuccino.drippyloadingscreen.customization.DrippyOverlayScreen {
+}
+
+de.keksuccino.drippyloadingscreen.customization.DrippyOverlayScreen {
+}
+
+de.keksuccino.drippyloadingscreen.customization.DrippyOverlayScreen {
+}
+
+de.keksuccino.drippyloadingscreen.customization.DrippyOverlayScreen {
+}
+
+de.keksuccino.drippyloadingscreen.customization.DrippyOverlayScreen {
+}
+
+de.keksuccino.drippyloadingscreen.customization.DrippyOverlayScreen {
+}
+
+de.keksuccino.drippyloadingscreen.customization.DrippyOverlayScreen {
+}
+
+de.keksuccino.drippyloadingscreen.customization.DrippyOverlayScreen {
+}
+
+de.keksuccino.drippyloadingscreen.customization.DrippyOverlayScreen {
+}
+
+de.keksuccino.drippyloadingscreen.customization.DrippyOverlayScreen {
+}
+
+de.keksuccino.drippyloadingscreen.customization.DrippyOverlayScreen {
+}
+

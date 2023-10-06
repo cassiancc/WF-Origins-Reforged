@@ -1,0 +1,55 @@
+type = menu
+
+customization-meta {
+  identifier = de.keksuccino.drippyloadingscreen.customization.DrippyOverlayScreen
+  randomgroup = 1
+  renderorder = foreground
+  randommode = false
+  randomonlyfirsttime = false
+}
+
+customization {
+  path = config/fancymenu/origins2/wfo2hero.png
+  action = texturizebackground
+}
+
+customization {
+  keepaspectratio = false
+  action = backgroundoptions
+}
+
+customization {
+  orientation = top-left
+  hidden = false
+  original_pos_size_calculation = true
+  x = 93
+  width = 240
+  action = deep_customization_element:drippy_overlay_logo
+  actionid = 9b163e90-3aa0-41f3-9539-eaa31e97987c1686272251436
+  y = 90
+  height = 60
+}
+
+customization {
+  orientation = top-left
+  hidden = false
+  x = -1000000
+  width = 0
+  action = deep_customization_element:drippy_overlay_background
+  actionid = d106ae2c-ffa0-407f-87e9-174acac184311686272251444
+  y = -1000000
+  height = 0
+}
+
+customization {
+  orientation = top-left
+  hidden = false
+  original_pos_size_calculation = true
+  x = 93
+  width = 240
+  action = deep_customization_element:drippy_overlay_progress_bar
+  actionid = 06d389f8-4336-4a67-afc0-ad62880314141686272251444
+  y = 194
+  height = 10
+}
+

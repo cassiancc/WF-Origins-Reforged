@@ -1,0 +1,13 @@
+name = "Flower Patch"
+filename = "FlowerPatch-forge-1.19.2-2.0.3.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/8hbo1O1M/versions/XNvoedCN/FlowerPatch-forge-1.19.2-2.0.3.jar"
+hash-format = "sha1"
+hash = "cbf6c5b55c0e9958dce0452588dfa590b3f5d3c1"
+
+[update]
+[update.modrinth]
+mod-id = "8hbo1O1M"
+version = "XNvoedCN"
