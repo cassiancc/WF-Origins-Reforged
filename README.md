@@ -39,8 +39,8 @@ These mods are not available on Modrinth and have licenses that do not permit di
 
 *   [Exotic Birds](https://www.curseforge.com/minecraft/mc-mods/exotic-birds)
 *   [FTB Ultimine](https://www.curseforge.com/minecraft/mc-mods/ftb-ultimine-forge)
-*   [Hexerei](https://www.curseforge.com/minecraft/mc-mods/smooth-chunk-saves)
-*   [Smooth Chunk Save](https://www.curseforge.com/minecraft/mc-mods/smooth-chunk-saves)
+*   [Hexerei](https://www.curseforge.com/minecraft/mc-mods/hexerei)
+*   [Smooth Chunk Save](https://www.curseforge.com/minecraft/mc-mods/smooth-chunk-save)
 *   [Vanilla Tweaks](https://vanillatweaks.net/share/#tyLcss)
 
 Licenses for Non-Modrinth Mods
